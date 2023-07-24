@@ -1,0 +1,24 @@
+head {
+    background-color: rgb(75, 74, 74);
+}
+
+body {
+    padding-top: 60px;
+    background-color: rgb(58, 58, 58);
+  }
+  
+  .jumbotron {
+    background-image: url('header-background.jpg');
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  footer {
+    color: #fff;
+  }
